@@ -1,0 +1,2 @@
+# GOFDesignPatternsCode
+GOFDesignPatternsCode
